@@ -8,6 +8,7 @@ You don't need a computer science background to participate - just a little prog
 
 ## Solutions
 
-| Day | Title | Progress |
-| 1 | Historian Hysteria | :star: :star: |
-| 2 | Red-Nosed Reports | :star: :star: |
+| Day | Title              | Progress      |
+| --- | ------------------ | ------------- |
+| 1   | Historian Hysteria | :star: :star: |
+| 2   | Red-Nosed Reports  | :star: :star: |
